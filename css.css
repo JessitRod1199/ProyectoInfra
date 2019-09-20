@@ -1,0 +1,32 @@
+body{
+    background-image: linear-gradient(to right, #27c2ed, #00a7c0, #008b95, #00706e, #0b554b);
+    font-family: sans-serif;
+}
+
+.form-control{
+   border-color: #0b554b00;
+    background-color: #c0000000;
+    border-block-end-color: aliceblue;
+    
+}
+
+.btn-pri{
+    background-color: #61cebf;
+    width: 200px;
+}
+
+.btn-pri:hover{
+    background-color: #00706e;
+    color: antiquewhite;
+    box-shadow: #0b554b60 0px 0px 10px;
+}
+
+h1{
+    font-size: 80px;
+    color: white;
+}
+
+.container{
+    margin-top: 13%;
+}
+
